@@ -16,10 +16,12 @@
   "devDependencies": {
     "css": "^3.0.0",
     "css-loader": "^6.9.1",
+    "csv-loader": "^3.0.5",
     "loader": "^2.1.1",
     "serve": "^12.0.0",
     "style-loader": "^3.3.4",
     "webpack": "^5.38.1",
-    "webpack-cli": "^4.7.2"
+    "webpack-cli": "^4.7.2",
+    "xml-loader": "^1.2.1"
   }
 }
